@@ -38,7 +38,7 @@
 }
 
 .away {
-  background-color: #af750a;
+  background-color: ;
 }
 
 .home__name,
@@ -119,4 +119,20 @@
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
+}
+
+.row {
+  margin: 1rem;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.button-primary {
+  border-radius: 14px; 
+}
+ .button{
+  border-radius: 14px;
+  background:  #0b5402;
+
 }
